@@ -23,7 +23,7 @@ Desarrollo de aplicaciones Open Source <br>
 |--------------------------------------|--------------|
 |      |   |
 |         |   |
-|           |   |
+|  Kael Lagos         |  U202210104 |
 |      |   |
 |      |    |
 
